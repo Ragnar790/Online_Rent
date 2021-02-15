@@ -1,4 +1,4 @@
-# Cloning and Running the Application in local
+# Cloning and Running the api in local
 
 Clone the project into local
 
