@@ -13,7 +13,7 @@ app.use(
 
 //CREATING CONNECTION WITH THE DATABASE
 
-const db = mongoose.createConnection("mongodb://localhost:27017/To-do", {
+const db = mongoose.createConnection("mongodb://localhost:27017/Online_Rent", {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
 });
