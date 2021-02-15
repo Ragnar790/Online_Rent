@@ -9,6 +9,7 @@ npm install
 ```
 
 Typing this command should start the server 
+
 ``Assuming you have `nodemon` installed globally``
 
 ```bash
