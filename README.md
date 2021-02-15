@@ -8,7 +8,7 @@ Clone the project into local
 npm install
 ```
 
-Typing this command should start the server 
+Typing this command should start the server (Assuming you have `nodemon` installed globally)
 
 ```bash
 npm start
